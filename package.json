@@ -1,0 +1,24 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamskss/assignment.git"
+  },
+  "author": "shubham kumar singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamskss/assignment/issues"
+  },
+  "homepage": "https://github.com/shubhamskss/assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3"
+  }
+}
